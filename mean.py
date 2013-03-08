@@ -4,7 +4,7 @@ sum = 0
 n = 0
 
 #Sum imput values
-for num in open('data.txt'):
+for num in open('data2.txt'):
 	sum += float(num)
 	n += 1
 
