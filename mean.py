@@ -8,4 +8,6 @@ for num in sys.stdin:
 	sum += float(num)
 	n += 1
 
+# Added comment - CU
+
 print sum/n
