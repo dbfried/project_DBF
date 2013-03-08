@@ -3,6 +3,7 @@ import sys
 sum = 0
 n = 0
 
+#Sum imput values
 for num in sys.stdin:
 	sum += float(num)
 	n += 1
